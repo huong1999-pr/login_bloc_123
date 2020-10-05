@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('This is HomePage'),
+        title: Text('This ie'),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.exit_to_app),
